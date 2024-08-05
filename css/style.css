@@ -1,0 +1,25 @@
+* {
+    overflow-wrap: anywhere;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+canvas{
+    border: 5px solid black;
+}
+
+button{
+    background-color: red;
+    padding: 15px;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin: 5px;
+}
